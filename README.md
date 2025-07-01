@@ -16,7 +16,9 @@ My passion for technology has led me to pursue a role in cybersecurity, with a s
 ## Certifications 
 
 <div>    
-<img src="https://img.shields.io/badge/Linux%20Essentials-blue?logo=linux&logoColor=white)](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000627001/8nxxxk3mg3"
+<a href="https://cs.lpi.org/caf/Xamman/certification/verify/LPI000627001/8nxxxk3mg3" target="_blank">
+  <img src="https://img.shields.io/badge/Linux%20Essentials-blue?logo=linux&logoColor=white" alt="Linux Essentials Certification Badge" />
+</a>
 
   
 </div>

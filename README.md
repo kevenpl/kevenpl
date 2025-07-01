@@ -7,7 +7,7 @@ I am a current cybersecurity undergraduate student (expected graduation date of 
 
 ## Objective
 
-My passion for technology has led me to pursue a role in cybersecurity, with a strong interest in joining an orginization as a secuirty analyst. Committed to continuous learning and contributing to a team focused on threat detection, response, and protecting organizational assets.
+My passion for technology has led me to pursue a role in cybersecurity, with a strong interest in joining an organization as a security analyst. I am committed to continuous learning and contributing to a team focused on threat detection, response, and protecting organizational assets.
 
 
 ## Skills

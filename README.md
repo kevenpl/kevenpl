@@ -20,19 +20,19 @@ My passion for technology has led me to pursue a role in cybersecurity, with a s
   <img src="https://img.shields.io/badge/Linux%20Essentials-blue?logo=linux&logoColor=white" alt="Linux Essentials Certification Badge" />
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/9c9c40b5-4092-4ab9-8204-a5f50fd0e41a" target="_blank">
+<a href="https://www.credly.com/badges/9c9c40b5-4092-4ab9-8204-a5f50fd0e41a/public_url" target="_blank">
   <img src="https://img.shields.io/badge/A%2B-red?logo=comptia&logoColor=white" alt="CompTIA A+ Certification" />
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/e53de766-0adb-499e-ae84-54cf9e64e3f2" target="_blank">
+<a href="https://www.credly.com/badges/e53de766-0adb-499e-ae84-54cf9e64e3f2/public_url" target="_blank">
   <img src="https://img.shields.io/badge/Network%2B-red?logo=comptia&logoColor=white" alt="CompTIA Network+ Certification" />
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/48a429c0-260e-4128-adf3-ead3f0921b05" target="_blank">
+<a href="https://www.credly.com/badges/48a429c0-260e-4128-adf3-ead3f0921b05/public_url" target="_blank">
   <img src="https://img.shields.io/badge/Security%2B-red?logo=comptia&logoColor=white" alt="CompTIA Security+ Certification" />
 </a>
 
-<a href="https://www.credly.com/earner/earned/badge/cb3081ce-3827-47bf-9c46-6a45faee246d" target="_blank">
+<a href="https://www.credly.com/badges/cb3081ce-3827-47bf-9c46-6a45faee246d/public_url" target="_blank">
   <img src="https://img.shields.io/badge/Associate%20of%20(ISC)%C2%B2-green?logo=ISC2&logoColor=white" alt="Associate of (ISC)² Certification" />
 </a>
 
